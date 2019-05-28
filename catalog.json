@@ -1,0 +1,19 @@
+{
+  "catalog": [
+    {
+      "type": "books",
+      "tax": 0,
+      "products": ["book", "audiobook", "magazine"]
+    },
+    {
+      "type": "food",
+      "tax": 0,
+      "products": ["chocolate", "chocolates", "banana", "coffee"]
+    },
+    {
+      "type": "medical products",
+      "tax": 0,
+      "products": ["pills", "painkiller"]
+    }
+  ]
+}
